@@ -1,4 +1,4 @@
-Notebooks
+Skripts
 ====================================
 
 .. toctree::
@@ -6,7 +6,7 @@ Notebooks
    :caption: Contents:
    :glob:
 
-   dwh
-   transform
-   visualize
-   pdf-connect
+    entpacken
+    verschieben
+    filtern
+    remove_data_lake_prefix
