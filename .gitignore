@@ -141,3 +141,6 @@ input/
 
 # PyCharm
 # .idea/
+
+# Ignoriere temporäre Dateien
+_templates/
