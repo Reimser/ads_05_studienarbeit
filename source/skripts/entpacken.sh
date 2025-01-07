@@ -1,5 +1,11 @@
 #!/bin/bash
 
+
+#Dieses Bash-Skript entpackt sämtliche .tar.gz-Dateien innerhalb eines definierten 
+#Verzeichnisses und organisiert die entpackten Inhalte in eigenen Unterordnern. 
+#Anschließend werden die Archive gelöscht, um Speicherplatz freizugeben und eine 
+#übersichtliche Dateistruktur zu gewährleisten.
+
 # Pfad zum data-lake Ordner
 DATADIR="/mnt/c/Users/hp/OneDrive/Desktop/data-lake"
 
