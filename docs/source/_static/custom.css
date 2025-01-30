@@ -1,0 +1,58 @@
+/* Ändert die Hintergrundfarbe des Headers */
+.wy-nav-top {
+    background-color: #EAA526 !important; /* Goldgelb */
+}
+
+/* Ändert die Sidebar-Farbe */
+.wy-side-nav-search {
+    background-color: #EAA526 !important; /* Dunkelbraun */
+}s
+
+/* Ändert die Schriftfarbe in der Navigation */
+.wy-menu-vertical a {
+    color: #FFFFFF !important; /* Weiß */
+}
+
+/* Ändert die Schriftgröße und den Zeilenabstand */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #FFF7E6; /* Sehr helles Beige */
+    color: #3B240B; /* Dunkelbraun für Lesbarkeit */
+}
+
+/* Ändert die Farbe von Code-Blöcken */
+code {
+    background-color: #FAE5C3; /* Helles Beige */
+    color: #3B240B; /* Dunkelbraun */
+    padding: 4px;
+    border-radius: 4px;
+}
+
+/* Überschriftendesign */
+h1, h2, h3 {
+    color: #3B240B !important; /* Dunkelbraun */
+    font-weight: bold;
+}
+
+/* Links-Farbe anpassen */
+a {
+    color: #D66A00 !important; /* Orangebraun passend zum Design */
+}
+
+a:hover {
+    color: #7A4000 !important; /* Dunkleres Braun */
+}
+
+/* Tabellen & Boxen */
+.wy-table-responsive {
+    background-color: #FFF7E6; /* Sehr helles Beige */
+    border: 1px solid #3B240B; /* Dunkelbrauner Rand */
+}
+
+/* Sidebar-Text */
+.wy-side-nav-search input {
+    background-color: #FAE5C3 !important; /* Helles Beige */
+    color: #3B240B !important; /* Dunkelbraun */
+}

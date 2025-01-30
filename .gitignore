@@ -138,7 +138,8 @@ cython_debug/
 
 # Ignoriere den gesamten input-Ordner
 input/
-
+# Ignoriere den gesamten output-Ordner
+ouput/
 # PyCharm
 # .idea/
 
