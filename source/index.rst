@@ -6,7 +6,7 @@ Herzlich willkommen zur Repliakationsstudie
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalte:
 
    docs/dataset
    docs/project
