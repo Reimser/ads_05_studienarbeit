@@ -9,12 +9,9 @@ seaborn
 scipy
 requests
 beautifulsoup4
-sqlalchemy
 jupyter
 notebook
 scikit-learn
 plotly
 nbconvert
-pdf2image
 fitz
-PyMuPDF
