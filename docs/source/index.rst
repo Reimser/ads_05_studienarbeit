@@ -1,14 +1,17 @@
-ADS Replikationsstudie
+Analyse politischer Diskurse in Deutschland
 ====================================
 
-Herzlich willkommen zur Repliakationsstudie
+Herzlich willkommen zur Replikationsstudie!  
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Inhalte:
 
-   dataset
    project
+   praesi
+   report
    notebooks/index
    skripts/index
+   fazit
+   quellen
