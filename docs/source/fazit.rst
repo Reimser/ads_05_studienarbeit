@@ -14,7 +14,6 @@ Wesentliche Änderungen und Erweiterungen
    - Strukturierte Dateiablagen für die Speicherung und Wiederverwendung von Daten geschaffen.
    - Anpassungen an der Datenpipeline vorgenommen, insbesondere durch eine präzisere Filterung und Bereinigung der Wordcount-Daten.
    - Erweiterung der Datenbasis um neuere Datensätze und eine detailliertere Kategorisierung der Medienquellen.
-   - Integration einer verbesserten SQL-Datenbankstruktur zur effizienteren Speicherung und Abfrage großer Datenmengen.
 
 2. Erweiterte Methoden zur Datenanalyse
    - Berechnung von kumulativen Wordcounts über verschiedene Zeiträume hinweg hinzugefügt.
@@ -29,7 +28,6 @@ Wesentliche Änderungen und Erweiterungen
 4. Anpassungen für den Zeitraum 2024
    - Spezifischer Vergleich zwischen 2024 und den Jahren 2021-2023 eingeführt.
    - Auswirkungen zentraler Ereignisse wie der Europawahl 2024 und des Bruchs der Ampel-Koalition im November 2024 integriert.
-   - Untersuchung der prozentualen Veränderung der Parteiennennungen vor 2024 und im Jahr 2024 durchgeführt.
 
 Erweiterte Dokumentation und Präsentation
 ----------------------------------------
@@ -41,5 +39,5 @@ Erweiterte Dokumentation und Präsentation
 Fazit
 -----
 
-Die Replikation und Erweiterung der Analyse hat zu einer erheblichen Verbesserung der Datenverarbeitung, Analysegenauigkeit und Visualisierung geführt. Durch die Einführung interaktiver Methoden, eine detaillierte Untersuchung des Jahres 2024 und die umfassende Dokumentation wurden die ursprünglichen Erkenntnisse überprüft und um wertvolle neue Einsichten erweitert. Diese Arbeit legt eine fundierte Basis für zukünftige Untersuchungen zur Entwicklung politischer Diskurse und Wahltrends in Deutschland.
+Die Replikation und Erweiterung der Analyse hat zu einer Verbesserung der Datenverarbeitung, Analysegenauigkeit und Visualisierung geführt. Durch die Einführung interaktiver Methoden, eine detaillierte Untersuchung des Jahres 2024 und die umfassende Dokumentation wurden die ursprünglichen Erkenntnisse überprüft und um wertvolle neue Einsichten erweitert. Diese Arbeit legt eine fundierte Basis für zukünftige Untersuchungen zur Entwicklung politischer Diskurse und Wahltrends in Deutschland.
 

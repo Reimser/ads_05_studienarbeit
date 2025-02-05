@@ -19,15 +19,14 @@ Falls die Datei nicht angezeigt wird, kann sie direkt unter folgendem Link herun
 ----
 
 🎥 **Screencast**  
-Das Video zur Präsentation kann direkt hier angesehen werden:  
+Hier kannst du den Screencast direkt ansehen:
 
 .. raw:: html
 
-    <iframe width="800" height="450" src="https://www.youtube.com/embed/DEIN_VIDEO_LINK" frameborder="0" allowfullscreen></iframe>
-
-Falls das Video nicht eingebettet wird, kann es direkt hier angesehen werden:  
-🔗 [Screencast auf YouTube](https://www.youtube.com/watch?v=DEIN_VIDEO_LINK)
-
+    <video width="800" height="450" controls>
+        <source src="_static/ads05_screencast_dennis_reimer.mp4" type="video/mp4">
+        Dein Browser unterstützt das Video-Tag nicht.
+    </video>
 ----
 
-💡 **Hinweis:** Falls du das Video lokal hosten möchtest, kannst du es in `_static/` speichern und mit `.. video::` in Sphinx einbinden.
+💡 **Hinweis:** Falls du das Video lokal anschauen willst ist es in _static gespeichert.
