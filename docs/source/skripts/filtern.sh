@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Dieses Bash-Skript wurde entwickelt, um HTML- und CSV-Dateien aus einem Data-Lake-Ordner automatisch zu organisieren
+#und anschließend den ursprünglichen Data-Lake-Ordner zu bereinigen.
 # Pfad zum Hauptordner data-lake
 DATADIR="/mnt/c/Users/hp/OneDrive/Desktop/data-lake"
 

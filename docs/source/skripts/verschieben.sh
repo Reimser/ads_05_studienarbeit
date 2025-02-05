@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#Dieses Bash-Skript automatisiert die Organisation und Verschiebung von HTML- und CSV-Dateien aus einem definierten
+#data-lake-Ordner in spezifische Zielverzeichnisse innerhalb eines Projekts. Es wurde entwickelt, um nach der 
+#Datenextraktion und Entpackung bestimmte HTML- und CSV-Dateien zu filtern und in eine geordnete Struktur zu überführen.
 # Definiere die Pfade zu den Zielordnern
 zielordner_html="/mnt/c/Users/hp/OneDrive/Desktop/DBU/ads-05/ads_o5_studienarbeit/input/data_lake"
 zielordner_csv="/mnt/c/Users/hp/OneDrive/Desktop/DBU/ads-05/ads_o5_studienarbeit/input/data_lake"

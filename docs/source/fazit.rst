@@ -3,41 +3,34 @@
 ======================================
 Kommentar zum Gesamtprojekt
 ======================================
-Replikation und Erweiterung der Analyse
+
+Ausgangslage und Problemstellung
 ----------------------------------------
-Im Rahmen dieser Studie wurde die ursprüngliche Analyse der politischen Diskurse und Wahltrends in Deutschland repliziert und weiterentwickelt. Die wesentlichen Ziele der Replikation bestanden darin, die Methodik zu überprüfen, die bestehenden Datenprozesse zu optimieren und zusätzliche Analysen einzuführen, um die Aussagekraft der Ergebnisse zu verbessern. Gleichzeitig wurden umfassende Dokumentations- und Präsentationsmethoden implementiert, um die Nachvollziehbarkeit und Reproduzierbarkeit der Arbeit zu gewährleisten.
+Die ursprüngliche Analyse beschäftigte sich mit der Entwicklung politischer Diskurse und Wahltrends in Deutschland. Dabei wurden Wordcount-Daten aus Nachrichtenportalen und die Politbarometer-Umfrage analysiert, um die Medienpräsenz verschiedener Parteien mit ihren Umfragewerten zu vergleichen. Allerdings wies die ursprüngliche Studie methodische Einschränkungen auf, insbesondere in Bezug auf die Datenverarbeitung, die Filterung politischer Begriffe sowie die begrenzte visuelle Darstellung der Ergebnisse. Zudem fehlte eine systematische Dokumentation, die eine einfache Replikation und Nachvollziehbarkeit ermöglichen würde.
 
-Wesentliche Änderungen und Erweiterungen
+Lösungsansatz und Umsetzung
 ----------------------------------------
+Das Hauptziel der Replikation bestand darin, die Datenpipeline zu optimieren, die Analysemethoden zu verfeinern und die Visualisierungen zu verbessern. Dies wurde durch mehrere Maßnahmen erreicht:
 
-1. Verbesserung der Datenverarbeitung und Strukturierung
-   - Strukturierte Dateiablagen für die Speicherung und Wiederverwendung von Daten geschaffen.
-   - Anpassungen an der Datenpipeline vorgenommen, insbesondere durch eine präzisere Filterung und Bereinigung der Wordcount-Daten.
-   - Erweiterung der Datenbasis um neuere Datensätze und eine detailliertere Kategorisierung der Medienquellen.
+1. **Datenverarbeitung und Strukturierung:**
+   - Bessere Filtermechanismen für die Wordcount-Analyse eingeführt.
+   - Erweiterung der Datenbasis durch zusätzliche Quellen.
+   - Bereinigung und Strukturierung der Daten für eine verbesserte Vergleichbarkeit.
 
-2. Erweiterte Methoden zur Datenanalyse
-   - Berechnung von kumulativen Wordcounts über verschiedene Zeiträume hinweg hinzugefügt.
-   - Detailliertere Analyse der medialen Berichterstattung pro Zeitung ergänzt.
-   - Untersuchung der Korrelation zwischen Wordcounts und Umfragewerten durch spezifische Ereignisanalysen erweitert.
+2. **Methodische Erweiterung:**
+   - Einführung kumulativer Wordcounts zur besseren Verfolgung langfristiger Trends.
+   - Erweiterung der Korrelation zwischen Medienpräsenz und Umfragewerten durch spezifische Ereignisanalysen.
 
-3. Erweiterte Visualisierungen
-   - Interaktive Grafiken mit Plotly ersetzt statische Diagramme.
-   - Darstellung der Wordcount-Entwicklung in Bezug auf politische Ereignisse verbessert.
-   - Heatmap zur Verteilung der Parteierwähnungen pro Zeitung hinzugefügt.
+3. **Visualisierung und Präsentation:**
+   - Statische Diagramme durch interaktive **Plotly-Grafiken** ersetzt.
+   - Einführung einer **Heatmap** zur Darstellung der medialen Präsenz politischer Parteien pro Zeitung.
+   - Ergänzung einer detaillierten **Sphinx-Dokumentation** zur Nachvollziehbarkeit.
+   - Erstellung eines Screencasts zur kompakten Präsentation der zentralen Ergebnisse.
 
-4. Anpassungen für den Zeitraum 2024
-   - Spezifischer Vergleich zwischen 2024 und den Jahren 2021-2023 eingeführt.
-   - Auswirkungen zentraler Ereignisse wie der Europawahl 2024 und des Bruchs der Ampel-Koalition im November 2024 integriert.
-
-Erweiterte Dokumentation und Präsentation
+Selbsteinschätzung der Resultate
 ----------------------------------------
+Die durchgeführte Replikation führte zu einer deutlichen Verbesserung der ursprünglichen Analyse. Die Einführung interaktiver Visualisierungen und methodischer Erweiterungen ermöglichte präzisere Erkenntnisse über die mediale Präsenz und Wahltrends politischer Parteien in Deutschland. Die Ergebnisse zeigen, dass die Medienberichterstattung in direktem Zusammenhang mit den politischen Umfragewerten steht und dass politische Ereignisse wie die Europawahl 2024 und der Bruch der Ampel-Koalition signifikante Auswirkungen hatten.
 
-- **Sphinx-Dokumentation**: Alle Code- und Analyseelemente wurden detailliert in einer Sphinx-Dokumentation erfasst.
-- **Screencast-Präsentation**: Eine Screencast-Präsentation fasst die wichtigsten Erkenntnisse und Methoden zusammen.
-- **Erweiterter Abschlussbericht**: Der finale Report wurde mit einer präziseren Diskussion der methodischen Schwächen und Limitationen ergänzt.
+Die Replikationsstudie war erfolgreich in der Verbesserung der Datenqualität und der Analysegenauigkeit. Dennoch gibt es weiterhin Herausforderungen, insbesondere im Hinblick auf die Vermeidung methodischer Verzerrungen durch selektive Medienberichterstattung. Für zukünftige Arbeiten könnte eine noch tiefere Integration von **Natural Language Processing (NLP)** helfen, die Tonalität der Berichterstattung zu berücksichtigen und eine differenziertere Analyse der Medienpräsenz politischer Parteien zu ermöglichen. Zudem könnte eine Erweiterung um Social-Media-Daten ein noch breiteres Bild der öffentlichen Wahrnehmung liefern.
 
-Fazit
------
-
-Die Replikation und Erweiterung der Analyse hat zu einer Verbesserung der Datenverarbeitung, Analysegenauigkeit und Visualisierung geführt. Durch die Einführung interaktiver Methoden, eine detaillierte Untersuchung des Jahres 2024 und die umfassende Dokumentation wurden die ursprünglichen Erkenntnisse überprüft und um wertvolle neue Einsichten erweitert. Diese Arbeit legt eine fundierte Basis für zukünftige Untersuchungen zur Entwicklung politischer Diskurse und Wahltrends in Deutschland.
-
+Zusammenfassend bietet diese Replikationsstudie eine fundierte methodische Grundlage für weiterführende Untersuchungen zu politischen Diskursen und deren Entwicklung in Deutschland.

@@ -7,7 +7,7 @@ Projektbeschreibung
 Dieses Projekt untersucht, wie sich die mediale Präsenz von Parteien in deutschen Nachrichtenquellen entwickelt hat und welche politischen Ereignisse diese Trends geprägt haben.
 
 🔹 **Zielsetzung:**  
-Das Ziel ist es, die mediale Berichterstattung zu quantifizieren und deren Einfluss auf das Politbarometer zu analysieren. Dabei wird untersucht, ob steigende Erwähnungen (auch negative) zu erhöhter Popularität beitragen.
+Das Ziel ist es, die mediale Berichterstattung zu quantifizieren und deren Einfluss auf das Politbarometer zu analysieren. Dabei wird untersucht, ob steigende Erwähnungen zu erhöhter Popularität beitragen.
 
 🔹 **Daten & Methodik:**  
 - **Datenquellen:** Artikel aus verschiedenen deutschen Nachrichtenportalen  
