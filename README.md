@@ -8,7 +8,7 @@ Dieses Projekt ist eine **Replikationsstudie** im Rahmen des Moduls **Applied Da
 Ziel ist es, eine bestehende Analyse zur Entwicklung politischer Diskurse und Wahltrends in Deutschland nachzustellen, methodisch zu erweitern und durch optimierte Visualisierungen aufzubereiten.
 
 Die Hauptfragestellung lautet:  
-➡ **Wie unterscheiden sich mediale Berichterstattung und politische Diskurse im Jahr 2024 von den Vorjahren (2021-2023)? Welche politischen Ereignisse haben diese Entwicklungen geprägt?**
+**Wie unterscheiden sich mediale Berichterstattung und politische Diskurse im Jahr 2024 von den Vorjahren (2021-2023)? Welche politischen Ereignisse haben diese Entwicklungen geprägt?**
 
 **Inhalte der Studie**
 -------------------------
@@ -31,7 +31,7 @@ Das Projekt ist in mehrere Hauptkomponenten unterteilt:
   - **Transform:** Transformation der Rohdaten.
   - **EDA:** Explorative Datenanalyse.
   - **Visualize:** Erstellung interaktiver Visualisierungen.
-- 🔧 **Skripte:**
+- **Skripte:**
   - **Entpacken-Skript**
   - **Verschieben-Skript**
   - **Filtern-Skript**
