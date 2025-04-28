@@ -1,6 +1,5 @@
-=================================
-README: Replikationsstudie ADS-05
-=================================
+
+## Replikationsstudie ADS-05
 
 **Projektübersicht**
 -----------------------
